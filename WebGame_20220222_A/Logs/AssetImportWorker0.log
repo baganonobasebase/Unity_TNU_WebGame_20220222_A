@@ -1,0 +1,590 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'zh' Physical Memory: 16217 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/KID/Unity_TNU_WebGame_20220222_A/WebGame_20220222_A
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+2624
+Successfully changed project path to: C:/KID/Unity_TNU_WebGame_20220222_A/WebGame_20220222_A
+C:/KID/Unity_TNU_WebGame_20220222_A/WebGame_20220222_A
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/KID/Unity_TNU_WebGame_20220222_A/WebGame_20220222_A/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   
+    VRAM:     3955 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56844
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001272 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 42.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.544 seconds
+Domain Reload Profiling:
+	ReloadAssembly (545ms)
+		BeginReloadAssembly (48ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (430ms)
+			LoadAssemblies (48ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (143ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (160ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (78ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002396 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 44.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.026 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1027ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (843ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (289ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (315ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (45ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (185ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2194 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2627.
+Total: 2.527600 ms (FindLiveObjects: 0.132700 ms CreateObjectMapping: 0.062600 ms MarkObjects: 2.281800 ms  DeleteObjects: 0.049700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/圖片
+  artifactKey: Guid(59cabc7e9ad76b94780fc787edd7cdc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片 using Guid(59cabc7e9ad76b94780fc787edd7cdc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230f60912fdfa7a6b2d2bdb9eb1a682c') in 0.003658 seconds 
+  Import took 0.006450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.254737 seconds.
+  path: Assets/圖片/First Asset pack .png
+  artifactKey: Guid(731bfa76414417e47b14642af6a500a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/First Asset pack .png using Guid(731bfa76414417e47b14642af6a500a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eef91878b33ab1dc3d69fabb1b08c20') in 0.088017 seconds 
+  Import took 0.092069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 177.185175 seconds.
+  path: Assets/圖片/Bench and chest
+  artifactKey: Guid(e2045649a2990c641952a38852db8a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Bench and chest using Guid(e2045649a2990c641952a38852db8a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4604f83780054cbb15426c9b9fb1c5') in 0.000992 seconds 
+  Import took 0.004127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040262 seconds.
+  path: Assets/圖片/Bench and chest/Bench.png
+  artifactKey: Guid(4f087ddfafb18874fafab6bd266ece45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Bench and chest/Bench.png using Guid(4f087ddfafb18874fafab6bd266ece45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37bd051175724e47ec8085517fea7342') in 0.014764 seconds 
+  Import took 0.017569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/圖片/Bench and chest/Chest.png
+  artifactKey: Guid(a3f54a4fd869aae4c94496cd26c41f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Bench and chest/Chest.png using Guid(a3f54a4fd869aae4c94496cd26c41f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef06fb3982523faf3d15c3223c85afa6') in 0.018014 seconds 
+  Import took 0.021338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.623212 seconds.
+  path: Assets/圖片/Bushes/Bush-1.png
+  artifactKey: Guid(e790e90cd36541a47943b71fabfa7786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Bushes/Bush-1.png using Guid(e790e90cd36541a47943b71fabfa7786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90634589196e17249fe787173184d1c1') in 0.007407 seconds 
+  Import took 0.010263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/圖片/Bushes/Bush-2.png
+  artifactKey: Guid(9588ffe33d02007498ea1358c0465179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Bushes/Bush-2.png using Guid(9588ffe33d02007498ea1358c0465179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099d340386010d96e7eaaf89f2b9b4cf') in 0.008150 seconds 
+  Import took 0.011829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/圖片/Bushes/Bush-4.png
+  artifactKey: Guid(e5148fee7c6f9584f9564e824ff9935f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Bushes/Bush-4.png using Guid(e5148fee7c6f9584f9564e824ff9935f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07eea69310074574816beed774e84ba2') in 0.010749 seconds 
+  Import took 0.014723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/圖片/Bushes/Stump.png
+  artifactKey: Guid(07e263a30767fbb4ca5355da1b8a52d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Bushes/Stump.png using Guid(07e263a30767fbb4ca5355da1b8a52d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec952c974d42be0ed40f7842d30b2717') in 0.009691 seconds 
+  Import took 0.012708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/圖片/Bushes/Bush-3.png
+  artifactKey: Guid(3bbf7703b7a6bee4ca6239d94703cf25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Bushes/Bush-3.png using Guid(3bbf7703b7a6bee4ca6239d94703cf25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d37e87d5510ff44def811d9d98c9b4') in 0.007520 seconds 
+  Import took 0.011093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.041755 seconds.
+  path: Assets/圖片/Fences/Big wooden fence/Big-wooden-fence-1.png
+  artifactKey: Guid(626b5c993b27a6945bfb7177d20d3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Big wooden fence/Big-wooden-fence-1.png using Guid(626b5c993b27a6945bfb7177d20d3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c539da5219cf35160e1c35ba10b13540') in 0.006582 seconds 
+  Import took 0.009516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/圖片/Fences/Big wooden fence/Big-wooden-fence-2.png
+  artifactKey: Guid(f6b5aceabd2fed144b4bdd9c4c48141f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Big wooden fence/Big-wooden-fence-2.png using Guid(f6b5aceabd2fed144b4bdd9c4c48141f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2577235ee126730b4cc60006999ed9') in 0.005331 seconds 
+  Import took 0.007921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/圖片/Fences/Big wooden fence/Big-wooden-fence-4.png
+  artifactKey: Guid(2159b6198c88142489d3511d92520df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Big wooden fence/Big-wooden-fence-4.png using Guid(2159b6198c88142489d3511d92520df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af4a853fb631d35025ee1c3434dd833') in 0.008646 seconds 
+  Import took 0.011938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/圖片/Fences/Big wooden fence/Big-wooden-fence-3.png
+  artifactKey: Guid(71bcc292a959b064ea316fac7a430946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Big wooden fence/Big-wooden-fence-3.png using Guid(71bcc292a959b064ea316fac7a430946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5131642774b2127daa31bc35b65edca9') in 0.006807 seconds 
+  Import took 0.010336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.455416 seconds.
+  path: Assets/圖片/Fences/Stone fence/Stone-fence-1.png
+  artifactKey: Guid(fd2f4fe7ae6e8b545b67e2a1dd2828f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Stone fence/Stone-fence-1.png using Guid(fd2f4fe7ae6e8b545b67e2a1dd2828f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '739fdddeadf004606837f634f2b32b12') in 0.006837 seconds 
+  Import took 0.009974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/圖片/Fences/Stone fence/Stone-fence-3.png
+  artifactKey: Guid(272d53bcc453b80469a59178480feb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Stone fence/Stone-fence-3.png using Guid(272d53bcc453b80469a59178480feb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070ae7c0766939c6200e9ef41c9f1ee6') in 0.006599 seconds 
+  Import took 0.010235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/圖片/Fences/Stone fence/Stone-fence-2.png
+  artifactKey: Guid(d3f97bd9e5542764198f3cea3c0eafbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Stone fence/Stone-fence-2.png using Guid(d3f97bd9e5542764198f3cea3c0eafbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c70dd1c64be19e83dd121ed7d5965d2') in 0.010001 seconds 
+  Import took 0.013512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/圖片/Fences/Stone fence/Stone-fence-4.png
+  artifactKey: Guid(4064f3ef0e2a7054d87fa3fc20ca9ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Stone fence/Stone-fence-4.png using Guid(4064f3ef0e2a7054d87fa3fc20ca9ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c9be3cfaa34f400f5d5a78ad135273') in 0.009361 seconds 
+  Import took 0.013127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.287671 seconds.
+  path: Assets/圖片/Fences/Wooden fence/Wooden-fence-1.png
+  artifactKey: Guid(e90d8fd2cc91b0a45b8314d594cea1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Wooden fence/Wooden-fence-1.png using Guid(e90d8fd2cc91b0a45b8314d594cea1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c944a5d9d9080864756fad6cb0f5f912') in 0.007912 seconds 
+  Import took 0.010811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/圖片/Fences/Wooden fence/Wooden-fence-3.png
+  artifactKey: Guid(79f8f51a2f781644fb29e75968ddd847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Wooden fence/Wooden-fence-3.png using Guid(79f8f51a2f781644fb29e75968ddd847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7b93d4d80426e352bbfdc6e76100fa') in 0.005994 seconds 
+  Import took 0.008587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/圖片/Fences/Wooden fence/Wooden-fence-2.png
+  artifactKey: Guid(790d71a4a6dc62e42b59dccec869ade6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Wooden fence/Wooden-fence-2.png using Guid(790d71a4a6dc62e42b59dccec869ade6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0250523ea695939adf7e4d6e0d1f3b65') in 0.009010 seconds 
+  Import took 0.012695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/圖片/Fences/Wooden fence/Wooden-fence-4.png
+  artifactKey: Guid(c7dfcb203a2e23949b9d2b28b35848bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Fences/Wooden fence/Wooden-fence-4.png using Guid(c7dfcb203a2e23949b9d2b28b35848bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fda0ba4f745d1e609a9a117ac7332bf') in 0.009076 seconds 
+  Import took 0.013004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.474625 seconds.
+  path: Assets/圖片/Flowers/Flower-1.png
+  artifactKey: Guid(3f16579c13dc19d4893fbfcbb48b07fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Flowers/Flower-1.png using Guid(3f16579c13dc19d4893fbfcbb48b07fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c640a863b6498c6e9bbbdf346044238') in 0.007359 seconds 
+  Import took 0.010392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/圖片/Flowers/Flower-3.png
+  artifactKey: Guid(a07954591af2f20489c2165e4d9b5966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Flowers/Flower-3.png using Guid(a07954591af2f20489c2165e4d9b5966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27abb937e149af45f84ab292296aadda') in 0.007112 seconds 
+  Import took 0.009893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/圖片/Flowers/Flower-2.png
+  artifactKey: Guid(4c98a8b8164fb114892c177fae3e3251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Flowers/Flower-2.png using Guid(4c98a8b8164fb114892c177fae3e3251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ec45f6a17015cf8a3dcbd8e75c9fc1') in 0.009102 seconds 
+  Import took 0.013698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.500061 seconds.
+  path: Assets/圖片/Grass/Grass-1.png
+  artifactKey: Guid(e19a268610e847d40a719ccb20539ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Grass/Grass-1.png using Guid(e19a268610e847d40a719ccb20539ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825634b6373a59349780004bdf5b460b') in 0.007063 seconds 
+  Import took 0.010098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/圖片/Grass/Grass-2.png
+  artifactKey: Guid(f9a2d9be360dc2e43a83b1795bf38875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Grass/Grass-2.png using Guid(f9a2d9be360dc2e43a83b1795bf38875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87e62522ac02e5f286dbf11e59499de') in 0.007718 seconds 
+  Import took 0.011591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.514108 seconds.
+  path: Assets/圖片/Ground tileset/Bright-grass-tileset.png
+  artifactKey: Guid(e1000fbc1616343469a44ce822097c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset/Bright-grass-tileset.png using Guid(e1000fbc1616343469a44ce822097c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79c112a4cf06993b7b0a02ebaa89192e') in 0.013217 seconds 
+  Import took 0.016338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/圖片/Ground tileset/Stone-path-tileset-horizontal.png
+  artifactKey: Guid(78b179fa10499a447a5c362336d8566d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset/Stone-path-tileset-horizontal.png using Guid(78b179fa10499a447a5c362336d8566d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de3df169d05abb37776587ee0e66093') in 0.009329 seconds 
+  Import took 0.013528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/圖片/Ground tileset/Earth-tileset.png
+  artifactKey: Guid(f91e0e618787f9648bd318fef81a9d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset/Earth-tileset.png using Guid(f91e0e618787f9648bd318fef81a9d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f8f3d0cb8c0a9a66f35f97d8c02e7b') in 0.020079 seconds 
+  Import took 0.025046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/圖片/Ground tileset/Stone-path-tileset-vertical.png
+  artifactKey: Guid(a2b4178bc55e35f49909c0d5c963a5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset/Stone-path-tileset-vertical.png using Guid(a2b4178bc55e35f49909c0d5c963a5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a9e50a9cf30dbd9a7ec1d1eb6a023b') in 0.031832 seconds 
+  Import took 0.035661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/圖片/Ground tileset/Dark-grass-tileset.png
+  artifactKey: Guid(e2c5fcc058cf56d4ba9457af43258884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset/Dark-grass-tileset.png using Guid(e2c5fcc058cf56d4ba9457af43258884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481b031aa04b4786d6297d109bb57e0b') in 0.015871 seconds 
+  Import took 0.019628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.592143 seconds.
+  path: Assets/圖片/Sculptures/Sculpture-1.png
+  artifactKey: Guid(114c9391eec5c6947abf4ef11eb84526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sculptures/Sculpture-1.png using Guid(114c9391eec5c6947abf4ef11eb84526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6aaa548885bfe3dc087fc66ba60337') in 0.007771 seconds 
+  Import took 0.010721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/圖片/Sculptures/Sculture-2.png
+  artifactKey: Guid(74d6acbc869c51249a7b24658269d042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sculptures/Sculture-2.png using Guid(74d6acbc869c51249a7b24658269d042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97303ce533e4b71c02e65169e099ad7') in 0.010882 seconds 
+  Import took 0.013987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.447381 seconds.
+  path: Assets/圖片/Stones/Stone-1.png
+  artifactKey: Guid(5e9eacd904232de4eaab69854bfe95e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Stones/Stone-1.png using Guid(5e9eacd904232de4eaab69854bfe95e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce30faca268cc5422be8620f95bc244') in 0.008265 seconds 
+  Import took 0.011129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/圖片/Stones/Stone-2.png
+  artifactKey: Guid(de5f75224b8d40d4f99523384dcf2c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Stones/Stone-2.png using Guid(de5f75224b8d40d4f99523384dcf2c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf36ca0690d74349a73540f107c9b98') in 0.006292 seconds 
+  Import took 0.009209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.627112 seconds.
+  path: Assets/圖片/Trees/Tree-1/Tree-1-1.png
+  artifactKey: Guid(133240ce5e14256428eb067f5064bd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-1/Tree-1-1.png using Guid(133240ce5e14256428eb067f5064bd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e24c729a9f40b5e704718738b18571') in 0.008111 seconds 
+  Import took 0.010941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/圖片/Trees/Tree-1/Tree-1-3.png
+  artifactKey: Guid(1437c48bc3427df488241bd610c1b1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-1/Tree-1-3.png using Guid(1437c48bc3427df488241bd610c1b1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a5281290b830053094a771272c06a9') in 0.006798 seconds 
+  Import took 0.009991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/圖片/Trees/Tree-1/Tree-1-2.png
+  artifactKey: Guid(57f82445e1d1a7141946f52a42871ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-1/Tree-1-2.png using Guid(57f82445e1d1a7141946f52a42871ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6648fd79a39442dabe4c2f021cce16c') in 0.009771 seconds 
+  Import took 0.013097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/圖片/Trees/Tree-1/Tree-1-4.png
+  artifactKey: Guid(3a5e57aa4233d7d4181a5462812baa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-1/Tree-1-4.png using Guid(3a5e57aa4233d7d4181a5462812baa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2618f715b0f12f5d3ded2e0e50a3e10') in 0.009618 seconds 
+  Import took 0.013351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.487538 seconds.
+  path: Assets/圖片/Trees/Tree-2/Tree-2-1.png
+  artifactKey: Guid(8bb49853a7384504a93277812bc6f5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-2/Tree-2-1.png using Guid(8bb49853a7384504a93277812bc6f5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0ca4f850ea181b3e3a6a2705230c1e9') in 0.007686 seconds 
+  Import took 0.010669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/圖片/Trees/Tree-2/Tree-2-4.png
+  artifactKey: Guid(518a6deacfac2dd4389bf73285c3c547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-2/Tree-2-4.png using Guid(518a6deacfac2dd4389bf73285c3c547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d9fa51c66f32c3a1e62a7fb23bed98') in 0.006012 seconds 
+  Import took 0.009151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/圖片/Trees/Tree-2/Tree-2-2.png
+  artifactKey: Guid(52781fd9f8fe8ea4499ca98f3505b930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-2/Tree-2-2.png using Guid(52781fd9f8fe8ea4499ca98f3505b930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2169074438179112f302a13dba59e217') in 0.008929 seconds 
+  Import took 0.012119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/圖片/Trees/Tree-2/Tree-2-3.png
+  artifactKey: Guid(de36247d2f8168d49b114d0172cc335a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-2/Tree-2-3.png using Guid(de36247d2f8168d49b114d0172cc335a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f5d3ca255ea97fc6ea9e971681162a8') in 0.009541 seconds 
+  Import took 0.012953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.330116 seconds.
+  path: Assets/圖片/Trees/Tree-3/Tree-3-1.png
+  artifactKey: Guid(399651cc519078146ba714444181c2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-3/Tree-3-1.png using Guid(399651cc519078146ba714444181c2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890addcaa4a5bbf60fb99ffbe111ffa6') in 0.007282 seconds 
+  Import took 0.010312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/圖片/Trees/Tree-3/Tree-3-3.png
+  artifactKey: Guid(86f486f7bc5638c4e923c7cd3c5ed1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-3/Tree-3-3.png using Guid(86f486f7bc5638c4e923c7cd3c5ed1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdfaa976c6171c1b21bd26165b374ab2') in 0.012901 seconds 
+  Import took 0.016356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/圖片/Trees/Tree-3/Tree-3-4.png
+  artifactKey: Guid(37c0639b63cdcc74083e38ee2108f26b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-3/Tree-3-4.png using Guid(37c0639b63cdcc74083e38ee2108f26b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59be94157c45cb93f34d49c10207ddd5') in 0.018830 seconds 
+  Import took 0.022630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/圖片/Trees/Tree-3/Tree-3-2.png
+  artifactKey: Guid(debe0774dd1be5d45babbd8671240050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-3/Tree-3-2.png using Guid(debe0774dd1be5d45babbd8671240050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16179f30aa3b93d047176a7758b9fbf3') in 0.012756 seconds 
+  Import took 0.017564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.212611 seconds.
+  path: Assets/圖片/First Asset pack .png
+  artifactKey: Guid(731bfa76414417e47b14642af6a500a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/First Asset pack .png using Guid(731bfa76414417e47b14642af6a500a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c018e356cea04c8df86e94e2b8b30d3') in 0.006671 seconds 
+  Import took 0.010287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.529929 seconds.
+  path: Assets/圖片/First Asset pack .png
+  artifactKey: Guid(731bfa76414417e47b14642af6a500a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/First Asset pack .png using Guid(731bfa76414417e47b14642af6a500a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0416ae4f7e631f14c5cb13e6919ed92') in 1.106401 seconds 
+  Import took 1.111797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.031515 seconds.
+  path: Assets/圖片/Ground tileset
+  artifactKey: Guid(fbf616b952fdb014d8a86f7cd2a13e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset using Guid(fbf616b952fdb014d8a86f7cd2a13e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7583fbcee5307844da7fea2119b2abf8') in 0.001175 seconds 
+  Import took 0.004911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.193772 seconds.
+  path: Assets/圖片/Ground tileset/Bright-grass-tileset.png
+  artifactKey: Guid(e1000fbc1616343469a44ce822097c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset/Bright-grass-tileset.png using Guid(e1000fbc1616343469a44ce822097c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c95ed79aac3dd6b51b70bf7255b4b9') in 0.005876 seconds 
+  Import took 0.009782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.297147 seconds.
+  path: Assets/圖片/Ground tileset/Bright-grass-tileset.png
+  artifactKey: Guid(e1000fbc1616343469a44ce822097c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset/Bright-grass-tileset.png using Guid(e1000fbc1616343469a44ce822097c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb23d39bca77505c538b5e3ad4613d2a') in 0.217629 seconds 
+  Import took 0.220745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.859188 seconds.
+  path: Assets/圖片/Ground tileset/Earth-tileset.png
+  artifactKey: Guid(f91e0e618787f9648bd318fef81a9d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset/Earth-tileset.png using Guid(f91e0e618787f9648bd318fef81a9d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '451e62b50d395fee785ea14021f2d875') in 0.005124 seconds 
+  Import took 0.010104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.344376 seconds.
+  path: Assets/圖片/Ground tileset/Earth-tileset.png
+  artifactKey: Guid(f91e0e618787f9648bd318fef81a9d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Ground tileset/Earth-tileset.png using Guid(f91e0e618787f9648bd318fef81a9d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104440825bddbcb077a6567d901940a3') in 0.069657 seconds 
+  Import took 0.073493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.784859 seconds.
+  path: Assets/圖片/Trees
+  artifactKey: Guid(d857f665fcdac1e4ca058886f75ff4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees using Guid(d857f665fcdac1e4ca058886f75ff4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2796d74d70561a9670aa513803884f66') in 0.001485 seconds 
+  Import took 0.004645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.867953 seconds.
+  path: Assets/圖片/Trees/Tree-1
+  artifactKey: Guid(bd7a460da9e14734e8698dc47b751277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Trees/Tree-1 using Guid(bd7a460da9e14734e8698dc47b751277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a542016efb2312079a12ddb00394b32') in 0.001453 seconds 
+  Import took 0.005035 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
